@@ -58,66 +58,6 @@ main {
   margin: 0 auto; /* 要素の中央揃え */
   padding: 70px 0; /* 上下に70px、左右に0pxの内側余白 */
 }
-.box1 {
-  width: 200px;
-  height: 200px;
-  background-color: lightsteelblue;
-}
-.box2 {
-  width: 200px;
-  height: 200px;
-  background-color: blue;
-}
-.box3 {
-  width: 200px;
-  height: 200px;
-  background-color: lightpink;
-}
-.box4 {
-  width: 200px;
-  height: 200px;
-  background-color: lightsteelblue;
-}
-.box5 {
-  width: 200px;
-  height: 200px;
-  background-color: blue;
-}
-.box6 {
-  width: 200px;
-  height: 200px;
-  background-color: lightsteelblue;
-}
-.box7 {
-  width: 200px;
-  height: 200px;
-  background-color: lightsteelblue;
-}
-.box8 {
-  width: 200px;
-  height: 200px;
-  background-color: blue;
-}
-.box9 {
-  width: 200px;
-  height: 200px;
-  background-color: lightpink;
-}
-.box10 {
-  width: 200px;
-  height: 200px;
-  background-color: lightpink;
-}
-.box11 {
-  width: 200px;
-  height: 200px;
-  background-color: blue;
-}
-.box12 {
-  width: 200px;
-  height: 200px;
-  background-color: lightpink;
-}
 
 .blog {
 width: 540px;
@@ -131,7 +71,7 @@ margin-right: 30px;
 }
 
 .blog-box{
-  padding: 50px;
+  padding-top: 50px;
 }
 
 .blog-item{
